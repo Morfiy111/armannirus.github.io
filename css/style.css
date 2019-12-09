@@ -116,6 +116,7 @@ a:focus {
     color: #333;
     -webkit-animation: 1.5s color infinite;
     animation: 1.5s color infinite;
+    width: 313px;
 }
 @-webkit-keyframes color {
     50% {
