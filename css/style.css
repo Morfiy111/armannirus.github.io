@@ -1,0 +1,17 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #2c2c2c;
+    font-size: 16px;
+    line-height: 1.62;
+}
+a, button {
+    transition: all .3s linear;
+}
+a:focus {
+    text-decoration: none;
+}
+.header-block {
+    background-color: #f5f5f5;
+    padding: 20px 0;
+    border-bottom: 2px solid #02619f;
+}
