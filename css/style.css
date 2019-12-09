@@ -15,3 +15,48 @@ a:focus {
     padding: 20px 0;
     border-bottom: 2px solid #02619f;
 }
+.header-flex-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contact-block-link a {
+    display: block;
+    text-align: right;
+    white-space: nowrap;
+    color: #02619f;
+}
+.header-address i {
+    color: #02619f;
+    font-size: 20px;
+}
+.header-address {
+    width: 300px;
+}
+.navbar-default {
+    background-color: transparent;
+    border: none;
+    margin-bottom: 0;
+}
+.navbar-collapse {
+    padding: 0;
+    margin: 10px 0;
+}
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 16px;
+}
+.navbar-nav > li:hover a::after {
+    content: '';
+    width: 100%;
+    height: 4px;
+    background-color: #02619f;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #333;
+}
