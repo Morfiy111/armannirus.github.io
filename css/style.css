@@ -301,9 +301,6 @@ a:focus {
     cursor: pointer;
     outline: none;
 }
-.button-page-block .main-button:after {
-    z-index: 0;
-}
 .button-page-block .main-button:before {
     content: '';
     position: absolute;
@@ -356,8 +353,13 @@ button.close {
     padding: 5px 10px;
     border: 1px solid #211E1F;
 }
-.modal-body .button-page-block .main-button:before {
-    z-index: 0;
+.owl-feedback-form button {
+    background-color: #02619f;
+    color: #fff;
+    border: 2px solid #02619f;
+    border-radius:6px;
+    width: 100%;
+    padding: 10px;
 }
 @media(max-width: 991px) {
     .footer-flex-block {
