@@ -107,7 +107,7 @@ a:focus {
     color: #02619f;
 }
 .chevron-background:hover {
-    color: #333;
+    color: #211E1F;
 }
 .owl-carousel-item img {
     width: 100%;
@@ -127,4 +127,111 @@ a:focus {
     50% {
         color: #02619f;
     }
+}
+.catalog-flex-block {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+.catalog-item-block {
+    width: 24%;
+    margin-bottom: 20px;
+}
+.catalog-item-image {
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+.catalog-item-image img {
+    width: 100%;
+    transition: all .3s linear;
+}
+.catalog-item-image:hover img {
+    transform: scale(1.2);
+}
+.catalog-item-title {
+    text-align: center;
+}
+.catalog-item-title a {
+    color: #02619f;
+    font-weight: bold;
+}
+.catalog-item-title a:hover {
+    color: #211E1F;
+    text-decoration: none;
+}
+.main-title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+#button-up {
+    display: none;
+    right: 0;
+    margin: 0;
+    position: fixed;
+    bottom: 67px;
+    outline: none;
+    width: 57px;
+    color: #333333;
+    line-height: 30px;
+    text-decoration: none;
+    padding: 0px 0 0 28px;
+    background: url(../images/scrolltop.png) no-repeat 7px 11px transparent;
+    border-radius: 0 4px 4px 0;
+    -webkit-border-radius: 0 4px 4px 0;
+    -moz-border-radius: 0 4px 4px 0;
+    -o-border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    z-index: 9;
+    background-size: 50px;
+}
+#button-up span {
+    display: block;
+    width: 56px;
+    height: 66px;
+}
+.advantages-blue {
+    background-color: #02619f;
+    padding: 30px 0;
+    color: #fff;
+}
+.iconblock-7 {
+    width: 48%;
+    display: flex;
+    align-items: center;
+}
+.iconblock-7 .icon {
+    display: table-cell;
+    vertical-align: top;
+    width: 70px;
+    padding: 12px 12px 0 0;
+    text-align: center;
+}
+.iconblock-7 .icon i {
+    font-size: 32px;
+    color: rgba(255, 255, 255, 0.5);
+    transition: all .4s;
+    width: 32px;
+    height: 32px;
+}
+.iconblock-7 h3 {
+    transition: all 0.7s ease 0s;
+    font-size: 22px;
+    margin: 15px 0;
+    padding-bottom: 6px;
+    color: #fff;
+    width: 100%;
+}
+.iconblock-7:hover .icon i {
+    font-size: 48px;
+    color: #fff;
+    transform: rotate(-360deg);
+    width: 48px;
+    height: 48px;
+    opacity: 1;
+}
+.advantages-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
