@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6eb23321-0315-4155-9a2f-65c4fcc34689" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/armannirus.html" beforeDir="false" afterPath="$PROJECT_DIR$/armannirus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/armannirus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="273" column="93" selection-start-line="273" selection-start-column="85" selection-end-line="273" selection-end-column="93" />
+            <state relative-caret-position="271">
+              <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -42,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="394" column="5" selection-start-line="394" selection-start-column="5" selection-end-line="394" selection-end-column="5" />
+            <state relative-caret-position="399">
+              <caret line="303" column="24" selection-start-line="303" selection-start-column="24" selection-end-line="303" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -67,14 +68,14 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/armannirus.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-91" />
-    <option name="y" value="66" />
+    <option name="x" value="208" />
+    <option name="y" value="44" />
     <option name="width" value="1371" />
     <option name="height" value="917" />
   </component>
@@ -142,12 +143,12 @@
       <workItem from="1575887790839" duration="41000" />
       <workItem from="1575887848410" duration="8689000" />
       <workItem from="1575901219753" duration="33000" />
-      <workItem from="1575956901413" duration="15439000" />
+      <workItem from="1575956901413" duration="16216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24293000" />
+    <option name="totallyTimeSpent" value="25070000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -159,7 +160,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-91" y="66" width="1371" height="917" extended-state="0" />
+    <frame x="208" y="44" width="1371" height="917" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2574032" />
@@ -201,17 +202,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/armannirus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="394" column="5" selection-start-line="394" selection-start-column="5" selection-end-line="394" selection-end-column="5" />
+        <state relative-caret-position="271">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/armannirus.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="273" column="93" selection-start-line="273" selection-start-column="85" selection-end-line="273" selection-end-column="93" />
+        <state relative-caret-position="399">
+          <caret line="303" column="24" selection-start-line="303" selection-start-column="24" selection-end-line="303" selection-end-column="24" />
         </state>
       </provider>
     </entry>

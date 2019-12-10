@@ -46,15 +46,16 @@
             </button>
             <div class="modal-body">
                 <div class="owl-feedback-form">
-                    <img src="images/tetr3.png" alt="">
                     <h3>Напишите нам!</h3>
-                    <p>Мы готовы ответить на любые вопросы! Просто напишите нам и мы обязательно сработаемся! =)</p>
+                    <p>Заполните формы ниже и мы обязательно ответим на все Ваши вопросы!</p>
                     <form action="/" method="post" id="askform">
                         <input type="text" placeholder="Ваше имя" id="name" name="fio" required>
                         <input placeholder="Телефон" id="tel" type="tel" name="tel" >
                         <input placeholder="email" id="email" type="email" name="email" required>
                         <textarea rows="3" name="question" placeholder="Сообщение..."></textarea>
-                        <button type="submit" id="doask"><span>Отправить заявку</span></button>
+                        <div class="button-page-block">
+                            <button class="main-button" data-target="#modal-main" data-toggle="modal" title="Оставить заявку">ОСТАВИТЬ ЗАЯВКУ</button>
+                        </div>
                     </form>
                 </div>
             </div>
