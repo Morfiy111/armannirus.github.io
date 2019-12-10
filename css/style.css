@@ -361,6 +361,10 @@ button.close {
     width: 100%;
     padding: 10px;
 }
+.footer-address-item a:hover {
+    text-decoration: none;
+    color: #211E1F;
+}
 @media(max-width: 991px) {
     .footer-flex-block {
         flex-wrap: wrap;
