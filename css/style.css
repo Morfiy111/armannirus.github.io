@@ -364,7 +364,7 @@ button.close {
     width: 100%;
     padding: 10px;
 }
-.footer-address-item a:hover {
+.footer-address-item a:hover, .footer-flex-block a:hover {
     text-decoration: none;
     color: #211E1F;
 }
