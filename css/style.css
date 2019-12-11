@@ -374,6 +374,20 @@ button.close {
 .helicopter-header img {
     width: 100%;
 }
+.background-image-block-about {
+    background-image: url("../images/bg-air.jpg");
+}
+.contact-job-time {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.contact-job-time i {
+    font-size: 40px;
+    color: #02619f;
+    margin-right: 15px;
+}
 @media(max-width: 991px) {
     .footer-flex-block {
         flex-wrap: wrap;
