@@ -392,6 +392,20 @@ button.close {
 .dropdown-menu > li > a {
     padding: 7px 20px;
 }
+.breadcrumb {
+    background-color: transparent;
+    padding-left: 0;
+    margin-top: 20px;
+}
+.breadcrumb a {
+    color: #211E1F;
+}
+.breadcrumb>.active {
+    color: #02619f;
+}
+.border-bottom-block {
+    border-bottom: 2px solid #02619f;
+}
 @media(max-width: 991px) {
     .footer-flex-block {
         flex-wrap: wrap;
