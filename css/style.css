@@ -406,6 +406,11 @@ button.close {
 .border-bottom-block {
     border-bottom: 2px solid #02619f;
 }
+
+.breadcrumb a:hover {
+    color: #02619f;
+    text-decoration: none;
+}
 @media(max-width: 991px) {
     .footer-flex-block {
         flex-wrap: wrap;
