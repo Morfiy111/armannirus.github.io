@@ -365,6 +365,12 @@ button.close {
     text-decoration: none;
     color: #211E1F;
 }
+.helicopter-header {
+    width: 200px;
+}
+.helicopter-header img {
+    width: 100%;
+}
 @media(max-width: 991px) {
     .footer-flex-block {
         flex-wrap: wrap;
