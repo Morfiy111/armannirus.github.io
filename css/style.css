@@ -442,6 +442,9 @@ button.close {
 .breadcrumb > li + li:before {
     padding: 0;
 }
+.price-block-num {
+    font-weight: bold;
+}
 @media(max-width: 991px) {
     .footer-flex-block {
         flex-wrap: wrap;
