@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eb23321-0315-4155-9a2f-65c4fcc34689" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/armannirus.html" beforeDir="false" afterPath="$PROJECT_DIR$/armannirus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,8 +90,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="384">
+              <caret line="596" column="27" selection-start-line="596" selection-start-column="27" selection-end-line="596" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -137,8 +133,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="104" />
-    <option name="y" value="57" />
+    <option name="x" value="126" />
+    <option name="y" value="137" />
     <option name="width" value="1371" />
     <option name="height" value="917" />
   </component>
@@ -211,12 +207,12 @@
       <workItem from="1576131500116" duration="3287000" />
       <workItem from="1576219124069" duration="4726000" />
       <workItem from="1576582933136" duration="28000" />
-      <workItem from="1577098754184" duration="4263000" />
+      <workItem from="1577098754184" duration="4534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55463000" />
+    <option name="totallyTimeSpent" value="55734000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,10 +224,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="104" y="57" width="1371" height="917" extended-state="0" />
+    <frame x="126" y="137" width="1371" height="917" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27942294" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27942294" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24981017" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32953683" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -244,7 +240,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -321,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="384">
+          <caret line="596" column="27" selection-start-line="596" selection-start-column="27" selection-end-line="596" selection-end-column="27" />
         </state>
       </provider>
     </entry>

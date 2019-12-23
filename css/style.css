@@ -594,3 +594,8 @@ button.close {
     background: #07051a;
     color: white;
 }
+@media (max-width: 767px) {
+    .form-search {
+        transform: translate(-50%,-5%);
+    }
+}
