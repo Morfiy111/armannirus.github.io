@@ -57,3 +57,4 @@ for (var i = 0; i < textCont.length; i++) {
         }, 75 * i);
     }(i));
 }
+
