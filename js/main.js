@@ -58,3 +58,8 @@ for (var i = 0; i < textCont.length; i++) {
     }(i));
 }
 
+$(document).ready(function() {
+    $('.main-search-icon').bind('click', function () {
+        $('.search-line-input, .close-header-icon, .main-search-icon').toggleClass('show');
+    });
+});
