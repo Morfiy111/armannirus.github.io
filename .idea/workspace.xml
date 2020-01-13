@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/armannirus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="205" column="56" selection-start-line="205" selection-start-column="56" selection-end-line="205" selection-end-column="56" />
+            <state relative-caret-position="144">
+              <caret line="197" column="55" selection-start-line="197" selection-start-column="55" selection-end-line="197" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -181,12 +181,12 @@
       <workItem from="1576219124069" duration="4726000" />
       <workItem from="1576582933136" duration="28000" />
       <workItem from="1577098754184" duration="5150000" />
-      <workItem from="1578900127657" duration="9625000" />
+      <workItem from="1578900127657" duration="10236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65975000" />
+    <option name="totallyTimeSpent" value="66586000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -291,8 +291,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/armannirus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="205" column="56" selection-start-line="205" selection-start-column="56" selection-end-line="205" selection-end-column="56" />
+        <state relative-caret-position="144">
+          <caret line="197" column="55" selection-start-line="197" selection-start-column="55" selection-end-line="197" selection-end-column="55" />
         </state>
       </provider>
     </entry>
