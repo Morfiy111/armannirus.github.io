@@ -528,6 +528,12 @@ button.close {
     border: none;
     font-size: 22px;
 }
+.logo-image-search-list img {
+    width: 100%;
+}
+.logo-image-search-list {
+    width: 111px;
+}
 @media(max-width: 991px) {
     .footer-flex-block {
         flex-wrap: wrap;
