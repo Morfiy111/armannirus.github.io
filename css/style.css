@@ -534,6 +534,9 @@ button.close {
 .logo-image-search-list {
     width: 111px;
 }
+.footer-logo img {
+    width: 148px;
+}
 @media(max-width: 991px) {
     .footer-flex-block {
         flex-wrap: wrap;
