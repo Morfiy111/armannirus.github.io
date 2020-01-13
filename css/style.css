@@ -537,6 +537,16 @@ button.close {
 .footer-logo img {
     width: 148px;
 }
+.border-bottom-block.sticky {
+    top: 0;
+    background-color: #fff;
+    border-bottom: 1px solid #7d7f7e;
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    transition: 0.2s top cubic-bezier(.3,.73,.3,.74);
+}
 @media(max-width: 991px) {
     .footer-flex-block {
         flex-wrap: wrap;

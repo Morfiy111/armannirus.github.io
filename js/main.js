@@ -63,3 +63,12 @@ $(document).ready(function() {
         $('.search-line-input, .close-header-icon, .main-search-icon').toggleClass('show');
     });
 });
+
+$(window).scroll(function() {
+    if ($(this).scrollTop() > 1){
+        $('.border-bottom-block').addClass("sticky");
+    }
+    else{
+        $('.border-bottom-block').removeClass("sticky");
+    }
+});
