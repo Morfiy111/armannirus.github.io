@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6eb23321-0315-4155-9a2f-65c4fcc34689" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/armannirus.html" beforeDir="false" afterPath="$PROJECT_DIR$/armannirus.html" afterDir="false" />
-    </list>
+    <list default="true" id="6eb23321-0315-4155-9a2f-65c4fcc34689" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,12 +179,12 @@
       <workItem from="1576219124069" duration="4726000" />
       <workItem from="1576582933136" duration="28000" />
       <workItem from="1577098754184" duration="5150000" />
-      <workItem from="1578900127657" duration="10236000" />
+      <workItem from="1578900127657" duration="10839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66586000" />
+    <option name="totallyTimeSpent" value="67189000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -199,7 +197,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="245" y="74" width="1371" height="917" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28397873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24981017" />
