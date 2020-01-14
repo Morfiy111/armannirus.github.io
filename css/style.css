@@ -40,7 +40,6 @@ a:focus {
 }
 .navbar-collapse {
     padding: 0;
-    margin: 10px 0;
 }
 .navbar-nav {
     display: flex;
@@ -456,13 +455,13 @@ button.close {
     display: block;
 }
 .search-line-input {
-    position: absolute;
-    bottom: 0;
+    position: fixed;
+    top: 0;
     left: 0;
     right: 0;
     background: #696e75;
     transition: bottom .3s;
-    padding-top: 400px;
+    padding-top: 248px;
 }
 .close-header-icon {
     display: none;
