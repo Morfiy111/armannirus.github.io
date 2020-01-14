@@ -113,26 +113,6 @@ a:focus {
 .owl-carousel-item img {
     width: 100%;
 }
-.header-slogan {
-    color: #333;
-    -webkit-animation: 1.5s color infinite;
-    animation: 1.5s color infinite;
-    width: 100%;
-    font-weight: bold;
-    text-align: center;
-    font-size: 34px;
-    margin: 30px 0 50px 0;
-}
-@-webkit-keyframes color {
-    50% {
-        color: #02619f;
-    }
-}
-@keyframes color {
-    50% {
-        color: #02619f;
-    }
-}
 .catalog-flex-block {
     display: flex;
     justify-content: space-between;
@@ -248,7 +228,7 @@ a:focus {
     background-image: url("../images/bg-bobine.jpg");
     background-attachment: fixed;
     background-size: 100%;
-    padding: 20px 0;
+    padding: 20px;
     margin-bottom: 40px;
     margin-top: -10px;
 }

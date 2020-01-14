@@ -37,27 +37,6 @@ $('.stop').on('click',function(){
     owl.trigger('autoplay.stop.owl')
 })
 
-var wrapper = document.querySelector(".header-slogan");
-var text = document.querySelector(".slogan-text");
-
-var textCont = text.textContent;
-text.style.display = "none";
-
-for (var i = 0; i < textCont.length; i++) {
-    (function(i) {
-        setTimeout(function() {
-            // Created textNode to append
-            var texts = document.createTextNode(textCont[i])
-            var span = document.createElement('span');
-            span.appendChild(texts);
-
-            span.classList.add("wave");
-            wrapper.appendChild(span);
-
-        }, 75 * i);
-    }(i));
-}
-
 $(document).ready(function() {
     $('.main-search-icon').bind('click', function () {
         $('.search-line-input, .close-header-icon, .main-search-icon').toggleClass('show');
