@@ -538,6 +538,9 @@ button.close {
 .cart-tab-property-number {
     text-align: right;
 }
+.cart-tab-property-price {
+    color:  #02619f;
+}
 .catalog-product-price {
     font-weight: bold;
     color: #02619f;
@@ -569,6 +572,22 @@ button.close {
 }
 .ditto_page:hover {
     background-color: #fff;
+}
+.tabs-block {
+    margin-bottom: 40px;
+}
+.nav-tabs > li > a {
+    color: #02619f;
+}
+.tab-content {
+    border: 1px solid #ddd;
+    border-top: none;
+}
+.tab-content {
+    border: 1px solid #ddd;
+    border-top: none;
+    border-radius: 0 0 4px 4px;
+    padding: 15px;
 }
 @media(max-width: 991px) {
     .footer-flex-block {
