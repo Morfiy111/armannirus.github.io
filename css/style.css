@@ -588,6 +588,12 @@ button.close {
     background-color: #ddd;
     border-bottom-color: #fff;
 }
+.buttons-margin a {
+    margin: 0 10px;
+}
+.owl-carousel-2 .catalog-item-block {
+    width: 100%;
+}
 @media(max-width: 991px) {
     .footer-flex-block {
         flex-wrap: wrap;
@@ -636,6 +642,12 @@ button.close {
     }
     .cart-goods-image, .cart-goods-prop {
         width: 100%;
+    }
+    .buttons-margin {
+        flex-direction: column;
+    }
+    .buttons-margin a {
+        margin: 10px 0 0 0;
     }
 }
 @media(max-width: 480px) {

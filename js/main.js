@@ -43,6 +43,30 @@ $(document).ready(function() {
     });
 });
 
+var itemsCount=4;
+if (window.matchMedia("(max-width: 991px)").matches) {
+    itemsCount=3;
+}
+if (window.matchMedia("(max-width: 767px)").matches) {
+    itemsCount=2;
+}
+if (window.matchMedia("(max-width: 500px)").matches) {
+    itemsCount=1;
+}
+var owl = $('.owl-carousel-2');
+owl.owlCarousel({
+    items:itemsCount,
+    loop:true,
+    margin:15,
+    nav:true,
+    dots: false,
+    autoplay:true,
+    autoplayTimeout:3000,
+    autoplayHoverPause:true
+});
+
+
+
 $(window).scroll(function() {
     if ($(this).scrollTop() > 1){
         $('.border-bottom-block').addClass("sticky");
