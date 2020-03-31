@@ -406,6 +406,7 @@ button.close {
 }
 .cart-tab-property-number {
     width: 50%;
+    text-align: right;
 }
 .card-goods-item {
     display: flex;
@@ -534,9 +535,6 @@ button.close {
     align-items: center;
     margin-bottom: 10px;
     flex-wrap: wrap;
-}
-.cart-tab-property-number {
-    text-align: right;
 }
 .cart-tab-property-price {
     color:  #02619f;
