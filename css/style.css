@@ -401,11 +401,7 @@ button.close {
     justify-content: flex-start;
     margin-bottom: 10px;
 }
-.cart-tab-property-title {
-    width: 50%;
-}
 .cart-tab-property-number {
-    width: 50%;
     text-align: right;
 }
 .card-goods-item {
@@ -535,6 +531,7 @@ button.close {
     align-items: center;
     margin-bottom: 10px;
     flex-wrap: wrap;
+    padding: 0 5px;
 }
 .cart-tab-property-price {
     color:  #02619f;
@@ -586,6 +583,10 @@ button.close {
     border-top: none;
     border-radius: 0 0 4px 4px;
     padding: 15px;
+}
+.cart-tab-property-grey {
+    background-color: #ddd;
+    border-bottom-color: #fff;
 }
 @media(max-width: 991px) {
     .footer-flex-block {
