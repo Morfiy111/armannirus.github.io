@@ -594,9 +594,14 @@ button.close {
 .owl-carousel-2 .catalog-item-block {
     width: 100%;
 }
-.cart-tab-property-number-left {
-    text-align: left;
-    width: 50%;
+.cart-tab-property-start {
+    justify-content: flex-start;
+}
+.cart-tab-property-start .cart-tab-property-title {
+    margin-right: 30px;
+}
+.cart-goods-prop-tab td {
+    padding: 5px;
 }
 @media(max-width: 991px) {
     .footer-flex-block {
