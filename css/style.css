@@ -573,6 +573,7 @@ button.close {
 }
 .nav-tabs > li > a {
     color: #02619f;
+    background-color: #f1f1f1;
 }
 .tab-content {
     border: 1px solid #ddd;
@@ -602,6 +603,9 @@ button.close {
 }
 .cart-goods-prop-tab td {
     padding: 5px;
+}
+.cart-goods-prop-tab td:first-child {
+    padding-right: 30px;
 }
 @media(max-width: 991px) {
     .footer-flex-block {
